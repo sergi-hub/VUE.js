@@ -17,7 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/favoritos">Favoritos</RouterLink>
       </nav>
     </div>
-    <p>pras</p>
+    <p>prashjkfds</p>
   </header>
 
   <RouterView />
