@@ -19,6 +19,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
     <p>Esto es develop
     </p>
+    <p>esto es para cambiar los colores</p>
   </header>
 
   <RouterView />
