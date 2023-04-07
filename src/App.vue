@@ -19,7 +19,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
     <p>Esto es develop
     </p>
-    <p>estoa</p>
+    <p>est</p>
   </header>
 
   <RouterView />
